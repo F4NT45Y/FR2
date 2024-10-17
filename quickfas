@@ -58,6 +58,7 @@ sudo pacman -Scc
 sudo pacman -Sc
 sudo journalctl --vacuum-time=2weeks
 rm -rf ~/.cache/thumbnails/*
+Paru -C (clean)
 
 
 
