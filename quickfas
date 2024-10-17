@@ -60,6 +60,8 @@ sudo journalctl --vacuum-time=2weeks
 rm -rf ~/.cache/thumbnails/*
 Paru -C (clean)
 
+#---------------------------------------------------------------------------#
+
 
 
 
