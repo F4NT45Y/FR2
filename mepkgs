@@ -4,6 +4,6 @@
 
 #######################################################################################################################################################################
 
-sudo pacman -S git vim pavucontrol plymouth-kcm
+sudo pacman -S git vim pavucontrol plymouth-kcm fastfetch neofetch
 
 paru -S thorium-browser-bin
