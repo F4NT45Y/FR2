@@ -4,6 +4,7 @@
 
 #######################################################################################################################################################################
 
-sudo pacman -S git vim pavucontrol plymouth-kcm fastfetch neofetch
-
-paru -S thorium-browser-bin
+sudo pacman -S git vim pavucontrol plymouth-kcm fastfetch neofetch flatpak (arch)
+sudo apt install git vim pavucontrol plymouth-kcm fastfetch neofetch flatpak (ubuntu)
+paru -S (optional)--thorium-browser-bin) git vim pavucontrol plymouth-kcm fastfetch neofetch flatpak (arch)
+sudo dnf install flatpak git vim pavucontrol plymouth-kcm fastfetch neofetch 
